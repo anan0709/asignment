@@ -1,0 +1,138 @@
+/*--HEADER--*/
+
+header{
+    position:relative;
+    height:450px;
+    
+}
+
+.shopping-mall{
+    position:absolute;
+    bottom:20px;
+    font-variant:small-caps;
+}
+
+.shopping-mall>h1{
+    font-family:Impact;
+    font-size:50px;
+    color:white;
+    letter-spacing: 0.3px;
+    text-shadow:0 0 2px black;
+    padding-bottom:0px;
+    border-bottom:1px dotted gray;
+    margin:0px;
+}
+.shopping-mall>h5{
+	margin-top:5px;
+    letter-spacing: 0.5px;
+}
+
+/*--BODY--*/
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.poly-sheet{
+    box-shadow:0 0 1px lightgray;
+    border-radius:5px;
+    padding:5px;
+    position:relative;
+    top:-10px;
+}
+
+.poly-sheet > article.col-sm-9, .poly-sheet > aside.col-sm-3{
+	padding: 5px;
+}
+
+/*--ASIDE BOX--*/
+
+.poly-cart{
+	margin-top: 5px;
+}
+
+.poly-cart ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    font-variant: small-caps;
+}
+
+.panel-heading strong{
+	font-variant: small-caps;
+	font-size: larger;
+	text-shadow:0 0 2px darkgray;
+}
+.carousel-inner img{
+    margin: 0 auto;
+    height: 300px;
+    max-width: 95%;
+}
+.img-thumbnail{
+    height: 50px;
+    max-width: 95%;
+}
+.jumbotron {
+    background-color: rgb(252, 248, 248);
+}
+.img-circle {
+    margin-left: 10px;
+}
+.col-lg-4{
+    color: white;
+    background-color: rgb(78, 77, 77);
+}
+.panel{
+    border-radius: 10px;
+    
+    
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.navbar-fixed-top, .navbar-fixed-bottom{
+    left: 66px;
+    right: 66px;
+}
+.poly-sheet {
+    box-shadow: 0 0 2px rgb(153, 153, 153);
+    border-radius: 5px;
+    padding: 5px;
+    position: relative;
+    top: -40px;
+}
+.tm-footer { font-size: 0.95rem; }
+.tm-footer-title { font-size: 1.4rem; }
+.tm-social-links li {
+    list-style: none;
+    margin-right: 15px;
+}
+
+a:hover { color:#009999; }
+.container-fluid { max-width: 1770px; }
+.tm-container-small { max-width: 1050px; }
+.btn { border-radius: 0; }
+.btn-primary {
+    background-color: #009999;
+}
+.tm-text-primary { color: #009999; }
+.tm-footer-links li {
+    list-style: none;
+    margin-bottom: 5px;    
+}
+.tm-footer-links li a { color: #cdcbcb; }
+.tm-footer-links li a {
+    text-decoration: none;
+}
+.tm-footer-links li a:hover { color: #009999; }
+.text-center{
+    color: black;
+}
+.text-center:hover{color: #009999;}
+.h2{
+    font-family: 'Times New Roman';
+}
+
+/*  */
+
+
+
